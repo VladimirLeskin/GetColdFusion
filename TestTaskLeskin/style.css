@@ -1,0 +1,84 @@
+ul.menu_list li
+{
+	display: inline-block;
+	margin: 5px auto;
+	border: 1px solid;
+	position:relative;
+	width: 20%;
+	height: 30px;
+}
+
+.menu_list_item div
+{
+	padding: 5px;
+}
+
+body.main_wrapper
+{
+	width: 80%;
+	margin: 5px auto;
+	text-align: center;
+}
+
+div.user_info
+{
+	position: fixed;
+	width: 14%;
+	left: 0;
+	top: 0;
+	border: 1px solid;
+	margin: 0;
+}
+div.user_info p
+{
+	margin: 2px auto;
+}
+
+#bugs_table
+{
+	border:2px solid;
+}
+
+table.list tr td
+{
+	text-align: center;
+	border-top: 1px solid;
+}
+
+div.users_table_wrapper
+{
+	width:80%;
+	margin: 5px auto;
+}
+
+.form_label
+{
+	width: 200px;
+	display: inline-block;
+}
+
+#CFForm_1
+{
+	text-align: left;
+	width:50%;
+	display:inline;
+}
+
+div.form_wrapper
+{
+	display: inline-block;
+    width: 40%;
+    margin: 5px auto 5px 0;
+}
+
+div.table_div
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 45%;
+}
+
+div.table_div table td
+{
+	text-align: center;
+}
